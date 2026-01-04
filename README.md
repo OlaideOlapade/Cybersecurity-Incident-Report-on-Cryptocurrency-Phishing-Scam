@@ -1,2 +1,3 @@
-# Cybersecurity-Incident-Report-on-Cryptocurrency-Phishing-Scam
-This is a documentation on Cryptocurrency Phishing Scam
+# This report documents the investigation of a suspicious private message received via TikTok, which appeared to be an attempted cryptocurrency phishing scam. The message claimed that the sender intended to commit suicide and had left a large sum of cryptocurrency (USDT) for the recipient, providing login credentials to an external website.
+# Due to the unusual nature of the message and the high likelihood of fraud, a controlled technical investigation was conducted using a secure virtual home lab environment. Open-source threat intelligence tools were used to assess the legitimacy of the website and associated indicators. The investigation confirmed that the website was malicious and had been flagged as a phishing site by multiple cybersecurity vendors.
+
